@@ -1,0 +1,6 @@
+abu.png
+abu.py
+venv/
+__pycache__/
+*.pyc
+.env
